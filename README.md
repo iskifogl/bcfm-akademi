@@ -1,2 +1,2 @@
-# bcfm-akademi
+# git101 example
 bcfm akademi
